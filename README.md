@@ -1,0 +1,1 @@
+Raw implementation of an RL agent, using Q-Table, to play the game tris (tic-tac-toe in english).
