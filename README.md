@@ -1,6 +1,3 @@
-Raw implementation of an RL agent, using Q-Table, to play the game tris (tic-tac-toe in english).
-
-
 # TrAIs - Tic-Tac-Toe AI
 
 Welcome to TrAIs, a Tic-Tac-Toe AI project! 
